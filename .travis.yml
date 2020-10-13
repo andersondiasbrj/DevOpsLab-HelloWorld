@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: b036a7e7-b3c7-4313-b3ce-4f2ccff89664
+    secure: 
   app: sicaweb-app
