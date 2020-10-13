@@ -21,4 +21,4 @@ deploy:
   provider: heroku
   api-key: 
     secure: 
-  app: sicaweb-app
+  app: app4linux
