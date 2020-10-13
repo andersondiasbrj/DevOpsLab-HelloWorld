@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: 
-  app: app4linux
+    secure: #HEROKU_API_KEY
+  app: sicaweb-app
